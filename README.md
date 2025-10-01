@@ -1,16 +1,16 @@
-# SafeCyclePath — Safety-Aware Routing for NYC
+# SafePath — Safety-Aware Routing
 
-SafeCyclePath helps people choose safer walking or cycling routes in New York City. Alongside the fastest route, the app shows alternative routes that consider simple safety signals from public data and basic user reports. The initial focus is Manhattan due to strong open-data coverage.
+SafePath helps people choose safer walking or cycling routes. Alongside the fastest route, the app shows alternative routes that consider simple safety signals from public data and basic user reports. 
 
 ---
 
 ## 1) Problem and Goal
 
-Most navigation tools optimise for speed/distance and rarely consider risk on street segments (for example, incident hotspots, poorly lit streets, hazardous junctions). SafeCyclePath adds a lightweight safety layer so users can compare Fastest vs Safer vs Safest options and make informed choices.
+Most navigation tools optimise for speed/distance and rarely consider risk on street segments (for example, incident hotspots, poorly lit streets, hazardous junctions). SafePath adds a lightweight safety layer so users can compare Fastest vs Safer vs Safest options and make informed choices.
 
 Goals
 - Offer at least three route options per origin–destination query (Fastest, Safer, Safest).
-- Use NYC open data to compute a simple safety score for segments and surface risk cues.
+- Use open data to compute a simple safety score for segments and surface risk cues.
 - Gather basic user hazard reports to iteratively improve safety signals.
 
 ---
@@ -105,7 +105,7 @@ Use evaluation results to tune weights in the short term and plan feature improv
 
 ## 9) Success Criteria (MVP)
 
-- Processes at least 95% of Manhattan route requests successfully  
+- Processes at least 95% of route requests successfully  
 - Under 3 seconds average response time (local dev conditions)  
 - At least 70% user satisfaction in early trials  
 - Clear preference patterns and readiness to expand beyond Manhattan

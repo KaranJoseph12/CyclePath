@@ -53,4 +53,4 @@ Urban cycling and walking are key to sustainable mobility - but safety concerns 
 
 ## Acknowledgements
 
-SafePath was created as part of the MSc in Advanced Software Development at Technological University Dublin, under the mentorship of Dr. Brendan Tierney and collaboration of a passionate student team focused on sustainable urban mobility.
+SafePath was created as part of the MSc in Advanced Software Development at Technological University Dublin.

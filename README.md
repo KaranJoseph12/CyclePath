@@ -1,4 +1,3 @@
-Below is a **professional, friendly, and recruiter-ready README** for your **SafePath (SafeCyclePath)** project - written following **The Good Docs** and **GitHub best practices**, while keeping it **approachable, action-oriented, and concise.**
 
 **🛣️ SafePath - Smarter, Safer Journeys for Cyclists and Pedestrians**
 

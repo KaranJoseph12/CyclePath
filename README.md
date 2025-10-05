@@ -1,19 +1,19 @@
 # SafePath - Smarter, Safer Journeys for Cyclists and Pedestrians
 
 ## Table of Contents
-- [About SafePath](#about-safepath)
-- [Who Is It For](#who-is-it-for)
-- [Key Features](#key-features)
-- [Why It Matters](#why-it-matters)
-- [Tech Stack & Dependencies](#tech-stack--dependencies)
-- [Installation Guide](#installation-guide)
-- [How to Use](#how-to-use)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [Additional Documentation](#additional-documentation)
-- [How to Get Help](#how-to-get-help)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+- About SafePath
+- Who Is It For
+- Key Features
+- Why It Matters
+- Tech Stack & Dependencies
+- Installation Guide
+- How to Use
+- Troubleshooting
+- Contributing
+- Additional Documentation
+- How to Get Help
+- License
+- Acknowledgements
 
 ## About SafePath
 

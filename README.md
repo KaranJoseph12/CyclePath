@@ -1,20 +1,19 @@
 # SafePath - Smarter, Safer Journeys for Cyclists and Pedestrians
 
 ## Table of Contents
-- About SafePath
-- Who Is It For
-- Key Features
-- Why It Matters
-- Tech Stack & Dependencies
-- Installation Guide
-- How to Use
-- Troubleshooting
-- Contributing
-- Additional Documentation
-- How to Get Help
-- License
-- Acknowledgements
-
+- **About SafePath**
+- **Who Is It For**
+- **Key Features**
+- **Why It Matters**
+- **Tech Stack & Dependencies**
+- **Installation Guide**
+- **How to Use**
+- **Troubleshooting**
+- **Contributing**
+- **Additional Documentation**
+- **How to Get Help**
+- **License**
+- **Acknowledgements**
 ## About SafePath
 
 With SafePath, you can discover safer walking and cycling routes across urban environments. Our mission is simple: help users travel confidently by reducing risks like low lighting, crime hotspots, blocked lanes, and unsafe road conditions.

@@ -1,11 +1,11 @@
 # SafePath - Smarter, Safer Journeys for Cyclists and Pedestrians
 
 ## Table of Contents
-- **About SafePath**
-- **Who Is It For**
-- **Key Features**
-- **Why It Matters**
-- **Acknowledgements**
+- [About SafePath](#about-safepath)
+- [Who Is It For](#who-is-it-for)
+- [Key Features](#key-features)
+- [Why It Matters](#why-it-matters)
+- [Acknowledgements](#acknowledgements)
 
 ## About SafePath
 
